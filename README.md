@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tableau,msoffice,photoshop" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,vscode,r,photoshop,discord,github,linkedin" />
 </p>
 
 <hr>
