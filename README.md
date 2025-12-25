@@ -8,3 +8,7 @@
 - 😄 Pronouns: He/Him :)
 - ⚡ Fun fact: I can speak 3 Languages, Sign in 2 Languages, and would love to connect with everyone as i begin my journey in the data science sphere. 
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{Anikxttt}/count.svg" alt="Visitor's Count" />
+</div>
